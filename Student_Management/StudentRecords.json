@@ -1,0 +1,98 @@
+[
+  {
+    "FullName": "Swetha S",
+    "Age": "23",
+    "DateOfBirth": "10/03/2001",
+    "Class": "CSE",
+    "SubjectsList": [
+      "OS",
+      "CN",
+      "DS"
+    ],
+    "Marks": {
+      "OS": 98,
+      "CN": 89,
+      "DS": 92
+    }
+  },
+  {
+    "FullName": "Saravana Muthu Kumar S",
+    "Age": "21",
+    "DateOfBirth": "30/09/2002",
+    "Class": "IT",
+    "SubjectsList": [
+      "OS",
+      "CN",
+      "DS"
+    ],
+    "Marks": {
+      "OS": 99,
+      "CN": 95,
+      "DS": 87
+    }
+  },
+  {
+    "FullName": "Vignesh Kumar I",
+    "Age": "21",
+    "DateOfBirth": "31/12/2002",
+    "Class": "CCE",
+    "SubjectsList": [
+      "OS",
+      "CN",
+      "DS"
+    ],
+    "Marks": {
+      "OS": 98,
+      "CN": 89,
+      "DS": 71
+    }
+  },
+  {
+    "FullName": "Suraj R Prasad",
+    "Age": "21",
+    "DateOfBirth": "29/09/2002",
+    "Class": "IT",
+    "SubjectsList": [
+      "OS",
+      "CN",
+      "DS"
+    ],
+    "Marks": {
+      "OS": 87,
+      "CN": 90,
+      "DS": 78
+    }
+  },
+  {
+    "FullName": "Thirunavakarasu S",
+    "Age": "21",
+    "DateOfBirth": "23/05/2002",
+    "Class": "IT",
+    "SubjectsList": [
+      "OS",
+      "CN",
+      "DS"
+    ],
+    "Marks": {
+      "OS": 87,
+      "CN": 90,
+      "DS": 68
+    }
+  },
+  {
+    "FullName": "Saravanan S",
+    "Age": "21",
+    "DateOfBirth": "02/08/2002",
+    "Class": "IT",
+    "SubjectsList": [
+      "OS",
+      "CN",
+      "DS"
+    ],
+    "Marks": {
+      "OS": 67,
+      "CN": 87,
+      "DS": 65
+    }
+  }
+]
