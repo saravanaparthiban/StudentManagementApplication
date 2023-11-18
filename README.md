@@ -1,8 +1,8 @@
 # StudentManagementApplication
 Basic Back-end Console project developed for Presidio'S Application Development Round
-Purely on Python 
-Data's are stored in a file using python-json
-Used to perform operations such as
+\nPurely on Python 
+\nData's are stored in a file using python-json
+\nUsed to perform operations such as\n
   1. Show Students List
   2. Filter Students Data
   3. Search for a Student
